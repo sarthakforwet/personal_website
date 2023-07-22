@@ -27,3 +27,5 @@ public/blogs.json
 
 # Dockerfile
 Dockerfile
+# Local Netlify folder
+.netlify
